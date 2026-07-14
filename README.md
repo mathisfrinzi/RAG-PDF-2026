@@ -10,5 +10,5 @@ FILE_PATH : fichier .pdf qui contient la source d'information en anglais pour r�
 Question : question en anglais
 Recommendé : QUANTIFICATION_4BITS = False si c'est sur cpu et True si c'est sur GPU
 
-4) Cliquez sur Poser la question et patienter jusqu'à ce que la fenêtre affiche la réponse :
+4) Cliquez sur Poser la question et patienter jusqu'à ce que la fenêtre affiche la réponse
 
