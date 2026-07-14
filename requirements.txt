@@ -1,0 +1,9 @@
+langchain-community
+langchain
+pypdf
+langchain-chroma
+bitsandbytes
+torch
+transformers
+sentence-transformers
+tkinter
