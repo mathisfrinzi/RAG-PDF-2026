@@ -109,7 +109,7 @@ class Interface(Tk):
         for i in self.step.keys():
             self.step[i]['justify'] = 'left'
             paned_load.add(self.step[i])
-        paned_answer = PanedWindow(self,orient='vertical',width=700,bg=bg_par,height=1000)
+        paned_answer = PanedWindow(self,orient='vertical',width=700,bg=bg_par,height=800)
         paned_answer.add(Label(self,text='Réponse : ',justify="left",bg=bg_par))
         self.label_reponse = Label(self,text='',wraplength=600,bg=bg_par,justify="left")
         paned_answer.add(self.label_reponse)
